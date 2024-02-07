@@ -14,11 +14,12 @@
 
 <h2>References</h2>
 
-- 【备受关注】全城聚焦力扬最新发布 LABVO 智能型实验室！(https://mp.weixin.qq.com/s/VsdBbEG3E9zFo5MgV_8y9A)
-- [A Day in the Life of a Cybersecurity Anayst](https://mp.weixin.qq.com/s/VsdBbEG3E9zFo5MgV_8y9A)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Event:【备受关注】全城聚焦力扬最新发布 LABVO 智能型实验室！](https://mp.weixin.qq.com/s/VsdBbEG3E9zFo5MgV_8y9A)
+- [Event: 众人围观！BCEIA 2021 力扬展台发生了啥？](https://mp.weixin.qq.com/s/mK6w1WALKRk4p1jzBLvyJg)
+- [Animated Story Telling: 实验室的日常，谁来拯救我的 996？](https://mp.weixin.qq.com/s/VrTWUGh1QsIfGHrp0XMlBQ)
+- [Solutions Sharing:【分享】亚毫克级的样品称重也可以这么简单！](https://mp.weixin.qq.com/s/bzklVwVyYdoIEO2lcSqgeg)
+- [New Product Launch: 一步到位，开启薄层色谱新纪元](https://mp.weixin.qq.com/s/0C3xPnB17hsjI55wWq_0Lg)
+
 
 <h2> 🤳 Connect with me:</h2>
 y_angie@hotmail.com
