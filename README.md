@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angie! <br/><a href="https://github.com/angie-yu">Well-rounded Marketer</a> </h1>
+<h1>Hi, I'm Angie! <br/><a href="https://github.com/angie-yu">Professional Marketer</a> </h1>
 
 <h2>👨‍💻 Marketing Projects:</h2>
 
