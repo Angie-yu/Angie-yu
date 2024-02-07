@@ -14,7 +14,7 @@
 
 <h2>References</h2>
 
-- [【备受关注】全城聚焦力扬最新发布 LABVO 智能型实验室！(https://mp.weixin.qq.com/s/VsdBbEG3E9zFo5MgV_8y9A))
+- 【备受关注】全城聚焦力扬最新发布 LABVO 智能型实验室！(https://mp.weixin.qq.com/s/VsdBbEG3E9zFo5MgV_8y9A)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
