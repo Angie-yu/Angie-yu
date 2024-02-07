@@ -73,19 +73,6 @@
 - CRM / CDP
 - Video Editing
 
-<h2>👨‍💻 Computer Skills</h2>
--	Google & Office 365 Suites
--	Wordpress (Website)
--	Microsoft AX / CDP (CRM)
--	Adobe Photoshop
--	Canva
--	OpenShot (Video Editing)
--	HOST Tech (WeChat CRM) 
--	XIUMI (WeChat Design)
--	IFAXIN / Tencent (eDM)
--	Baidu 营销 (Data Analysis)
--	Google Analytics
-
 <h2>👨‍💻 References</h2>
 
 - [Event:【备受关注】全城聚焦力扬最新发布 LABVO 智能型实验室！](https://mp.weixin.qq.com/s/VsdBbEG3E9zFo5MgV_8y9A)
