@@ -1,5 +1,24 @@
 <h1>Hi, I'm Angie! <br/><a href="https://github.com/angie-yu">Professional Marketer</a> </h1>
 
+<h2>👨‍💻 Work Experience</h2>
+
+- <b>NIKYANG Enterprise Ltd. (Jan 2011 to Present)</b>
+  - Marketing Manager
+- <b>zMarketing Ltd. (Feb 2009 to Jun 2010)</b>
+  - Project Manager 
+- <b>Globe7 HK Ltd. (Jun 2007 to Nov 2008)</b>
+  - Assistant Marketing Manager
+- <b>Yuk Tung Computer Ltd. (Jun 2005 to March 2007)</b>
+  - Marketing Manager
+- <b>A&J Technology Ltd. (Jun 2004 to May 2005)</b>
+  - Assistant Marketing Manager
+- <b>Synnex Technology Ltd. (Sep 2000 to Dec 2003)</b>
+  - Marketing Executive
+- <b>GELEC (HK) Ltd.  (Feb 1999 to Sep 2000)</b>
+  - Sales Coordinator
+- <b>Brilliance Communications (Feb 1998 to Feb 1999)</b>
+  - Account Executive
+ 
 <h2>👨‍💻 Marketing Projects:</h2>
 
 - <b>Marketing on WeChat Platform</b>
