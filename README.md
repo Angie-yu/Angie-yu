@@ -73,6 +73,21 @@
 - CRM / CDP
 - Video Editing
 
+<h2>👨‍💻 Computer Skills</h2>
+
+- Google & Office 365 Suites
+- Wordpress (Website)
+- Microsoft AX / CDP (CRM)
+- Adobe Photoshop
+- Canva
+- OpenShot (Video Editing)
+- HOST Tech (WeChat CRM)
+- XIUMI (WeChat Design)
+- IFAXIN / Tencent (eDM)
+- Baidu 营销 (Data Analysis)
+- Google Analytics
+
+
 <h2>👨‍💻 References</h2>
 
 - [Event:【备受关注】全城聚焦力扬最新发布 LABVO 智能型实验室！](https://mp.weixin.qq.com/s/VsdBbEG3E9zFo5MgV_8y9A)
@@ -83,22 +98,22 @@
 
 <h2>👨‍💻 Education</h2>
 
-- <b>Postgraduate Diploma in Digital and Social Media Marketing (Jan 2011 to Present)</b>
+- <b>Postgraduate Diploma in Digital and Social Media Marketing (2015 - 2016)</b>
   - HKU School of Professional & Continuing Education
     - Courses include Integrated Brand Communications, Consumer Behaviour and Branding, Advertising and Media Marketing, Social Media Marketing, Digital Marketing, Luxury Marketing Strategies.
 
-- <b>Professional Diploma in Chief Brand Officer (專業品牌師高級文憑) (Jan 2011 to Present)</b>
+- <b>Professional Diploma in Chief Brand Officer (專業品牌師高級文憑) (2008)</b>
   - Hong Kong Productivity Council
 
-- <b>Master of Business Administration in International Management (Jan 2011 to Present)</b>
+- <b>Master of Business Administration in International Management (2001 to 2004)</b>
   - Royal Holloway, University of London
     - Courses include international accounting and finance, marketing, business strategy, business economics, human resources management & organizational behaviour, operations management & information system, Asia Pacific business and leadership & teams.
    
-- <b>Professional Diploma in Public Relations (Jan 2011 to Present)</b>
+- <b>Professional Diploma in Public Relations (1999 to 2000)</b>
   - Hong Kong Management Association
     - Courses include PR management and campaigns, managing media relations, marketing communications, financial PR and crisis management.
-    -  
-- <b>Bachelor’s Degree (Honours) in Business Administration (Jan 2011 to Present)</b>
+      
+- <b>Bachelor’s Degree (Honours) in Business Administration (1994 to 1997)</b>
   - Lingnan University
     - Majoring in Marketing.
     - Courses include accounting, entrepreneurship, finance, human resources management, information systems, international business and marketing. 
