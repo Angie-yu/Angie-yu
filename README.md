@@ -98,6 +98,9 @@
 
 <h2>👨‍💻 Education</h2>
 
+- <b>Growth Marketing Bootcamp (2024)</b>
+  - Growth Marketer Academy
+
 - <b>Postgraduate Diploma in Digital and Social Media Marketing (2015 - 2016)</b>
   - HKU School of Professional & Continuing Education
     - Courses include Integrated Brand Communications, Consumer Behaviour and Branding, Advertising and Media Marketing, Social Media Marketing, Digital Marketing, Luxury Marketing Strategies.
