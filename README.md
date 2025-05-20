@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Work Experience</h2>
 
-- <b>NIKYANG Enterprise Ltd. (Jan 2011 to Present)</b>
+- <b>NIKYANG Enterprise Ltd. (Jan 2011 to 2024)</b>
   - Marketing Manager
     - Oversee marketing communications & PR projects for the company’s laboratory R&D and automation business
     - Manage digital marketing & social media platforms (e.g. WeChat, Baidu, Zhihu, Bilibili, Youku, Tencent Video...)
@@ -69,7 +69,7 @@
 - Brand Management
 - Content Development
 - Website Management
-- Baidu SEO & SEM
+- Baidu / Google SEO & SEM
 - CRM / CDP
 - Video Editing
 
@@ -86,6 +86,7 @@
 - IFAXIN / Tencent (eDM)
 - Baidu 营销 (Data Analysis)
 - Google Analytics
+
 
 
 <h2>👨‍💻 References</h2>
@@ -120,6 +121,15 @@
   - Lingnan University
     - Majoring in Marketing.
     - Courses include accounting, entrepreneurship, finance, human resources management, information systems, international business and marketing. 
+
+<h2>👨‍💻 Certifications</h2>
+
+- <b> Google (2025 - 2026)</b>
+  - Google Analytics Certification
+
+- <b>HubSpot Academy (2024 - 2026)</b>
+  - HubSpot Inbound Marketing Cerification
+  - HubSpot Marketing Software Certification
       
 <h2> 🤳 Connect with me:</h2>
 y_angie@hotmail.com
